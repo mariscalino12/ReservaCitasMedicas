@@ -29,7 +29,7 @@ public class Medico {
 	private String apellido_materno;
 	
 	@Column(name = "numero_colegiado")
-	private Integer fecha_nacimiento;
+	private Integer numero_colegiado;
 	
 	@Column(name = "horario_atencion")
 	private String horario_atencion;
